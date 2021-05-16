@@ -8764,7 +8764,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mkarabekmez\\.nuget\\packages\\": {},
+    "C:\\Users\\MK\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -8773,14 +8773,14 @@
       "projectUniqueName": "D:\\Projeler\\SliderManagerApp\\SliderManagerApp\\SliderManagerApp.csproj",
       "projectName": "SliderManagerApp",
       "projectPath": "D:\\Projeler\\SliderManagerApp\\SliderManagerApp\\SliderManagerApp.csproj",
-      "packagesPath": "C:\\Users\\mkarabekmez\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\MK\\.nuget\\packages\\",
       "outputPath": "D:\\Projeler\\SliderManagerApp\\SliderManagerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mkarabekmez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8792,6 +8792,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -8803,6 +8804,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.UI": {
             "target": "Package",
@@ -8845,7 +8847,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

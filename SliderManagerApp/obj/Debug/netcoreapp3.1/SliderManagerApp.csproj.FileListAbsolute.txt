@@ -1,6 +1,5 @@
 D:\Projeler\SliderManagerApp\SliderManagerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Projeler\SliderManagerApp\SliderManagerApp\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Projeler\SliderManagerApp\SliderManagerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Projeler\SliderManagerApp\SliderManagerApp\bin\Debug\netcoreapp3.1\SliderManagerApp.StaticWebAssets.xml
 D:\Projeler\SliderManagerApp\SliderManagerApp\bin\Debug\netcoreapp3.1\SliderManagerApp.exe
 D:\Projeler\SliderManagerApp\SliderManagerApp\bin\Debug\netcoreapp3.1\SliderManagerApp.deps.json
@@ -314,3 +313,4 @@ D:\Projeler\SliderManagerApp - Kopya (2)\SliderManagerApp\obj\Debug\netcoreapp3.
 D:\Projeler\SliderManagerApp\SliderManagerApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SliderDelete.cshtml.g.cs
 D:\Projeler\SliderManagerApp\SliderManagerApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SliderDetail.cshtml.g.cs
 D:\Projeler\SliderManagerApp\SliderManagerApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SliderEdit.cshtml.g.cs
+D:\Projeler\SliderManagerApp\SliderManagerApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\SliderManagerApp.styles.css

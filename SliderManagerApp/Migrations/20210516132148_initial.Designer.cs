@@ -10,8 +10,8 @@ using SliderManagerApp.Repository.Concrete;
 namespace SliderManagerApp.Migrations
 {
     [DbContext(typeof(SliderContext))]
-    [Migration("20201017111255_ImageMig")]
-    partial class ImageMig
+    [Migration("20210516132148_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
